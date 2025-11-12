@@ -5,11 +5,11 @@
 ---
 
 ### 🚀 Sobre mim
-Sou um desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado constante.  
-Tenho experiência em **desenvolvimento web e mobile**, atuando com **React, React Native, Node.js e .NET**, além de projetos com **Python e automação**.
-
-💡 Estou sempre buscando novos desafios, seja criando APIs, interfaces modernas ou soluções integradas com IA.
-
+Sou Desenvolvedor Full Stack com experiência em criação de aplicações web e mobile, integrando tecnologias modernas como React, React Native, Next.js, Node.js, C#/.NET, SQL e MongoDB.
+Tenho histórico sólido em automação de processos com Python (RPA e web scraping) e experiência no ecossistema SAP EWM e TOTVS Proteus, o que me permite unir visão técnica e de negócios para desenvolver soluções completas e eficientes.
+Atualmente atuo no desenvolvimento de aplicações mobile e web, focando em performance, escalabilidade e experiência do usuário.
+Busco constantemente aprimorar minhas habilidades em arquitetura de software, integração de sistemas e tecnologias multiplataforma (Flutter e React Native).
+Objetivo: Criar soluções digitais que conectem tecnologia, automação e inovação de forma inteligente.
 ---
 
 ### 🧠 Tecnologias e Ferramentas
@@ -42,7 +42,8 @@ Tenho experiência em **desenvolvimento web e mobile**, atuando com **React, Rea
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HugoHenrique&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoHenrique&theme=tokyonight" alt="GitHub Streak" height="160"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugohenrique&theme=tokyonight" alt="GitHub Streak" height="160"/>
+
 </p>
 
 ---
@@ -61,5 +62,3 @@ Tenho experiência em **desenvolvimento web e mobile**, atuando com **React, Rea
 🐙 **GitHub:** [github.com/HugoHenrique](https://github.com/H2Martins)
 
 ---
-
-⭐ *"Transformando ideias em código e código em soluções inteligentes."*
