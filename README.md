@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o Hugo Henrique</h1>
+<h1 align="center"> Olá, eu sou o Hugo Henrique</h1>
 <h3 align="center">💻 Desenvolvedor Full Stack | Criador de Soluções Digitais Inteligentes</h3>
 
 ---
