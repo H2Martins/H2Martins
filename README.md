@@ -46,15 +46,7 @@ Objetivo: Criar soluções digitais que conectem tecnologia, automação e inova
   <img src="https://github-readme-stats.vercel.app/api?username=HugoHenrique&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
 </p>
 
----
 
-### 🌱 Projetos em Destaque
-- 🚀 **[ICEDRy eSports](https://github.com/...)** → Site e logo personalizados para equipe de e-sports  
-- 🤖 **[Bot Automático de Anúncios](https://github.com/...)** → Automatização de postagens de carros em redes sociais com Python  
-- 🧩 **[IA para Análise de Vídeos](https://github.com/...)** → Pipeline de classificação de vídeos com IA leve  
-- 🖐️ **[Controle por Gestos](https://github.com/...)** → Projeto em Python com OpenCV, MediaPipe e PyAutoGUI  
-
----
 
 ### 💬 Conecte-se comigo
 📫 **E-mail:** hhugomts@gmail.com  
